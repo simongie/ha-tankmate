@@ -1,0 +1,15 @@
+{
+  "title": "TankMate",
+  "config": {
+    "step": {
+      "user": {
+        "title": "TankMate",
+        "description": "Connect to TankMate",
+        "data": {
+          "api_key": "API Key",
+          "uid": "Account UID"
+        }
+      }
+    }
+  }
+}
