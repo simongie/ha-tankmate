@@ -1,0 +1,6 @@
+{
+  "name": "TankMate",
+  "content_in_root": false,
+  "domains": ["tankmate"],
+  "homeassistant": "2024.6.0"
+}
