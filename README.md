@@ -13,6 +13,8 @@ A custom Home Assistant integration for TankMate water tank sensors.
 - One API call for all tanks
 
 ## Installation (HACS)
+*Get your API details here: https://tankmate.gitbook.io/tankmate/app-user-guides/tankmate-api
+
 1. Install HACS if you haven’t already
 2. HACS → Integrations → Custom repositories
 3. Add this repository:
